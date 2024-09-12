@@ -169,8 +169,9 @@ export default function ContactUs() {
                                 </h3>
                                 <p>
                                     You can schedule a demo by clicking the
-                                    "Book a Demo" button on our homepage or by
-                                    contacting our sales team directly.
+                                    &quot;Book a Demo&quot; button on our
+                                    homepage or by contacting our sales team
+                                    directly.
                                 </p>
                             </div>
                             <div>

@@ -3,8 +3,6 @@
 import { useState, useEffect } from "react";
 import { motion, useAnimation } from "framer-motion";
 import { Button } from "@/components/ui/button";
-import { Header } from "@/components/layout/Header";
-import { Footer } from "@/components/layout/Footer";
 import { FeaturesSection } from "@/components/home/Features";
 import { TestimonialsSection } from "@/components/home/Testimonials";
 import { PricingSection } from "@/components/home/Pricing";

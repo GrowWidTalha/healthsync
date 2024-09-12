@@ -13,7 +13,7 @@ const CTA: React.FC = () => {
                 </h2>
                 <p className="text-xl mb-8 max-w-2xl mx-auto">
                     Join thousands of healthcare professionals who are already
-                    benefiting from Healthsync's powerful features.
+                    benefiting from Healthsync&apos;s powerful features.
                 </p>
                 <div className="flex flex-col sm:flex-row justify-center gap-4">
                     <Button

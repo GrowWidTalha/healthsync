@@ -15,7 +15,7 @@ export function TestimonialsSection({ controls }: TestimonialsSectionProps) {
         {
             name: "Mark Johnson",
             role: "Clinic Administrator",
-            quote: "The analytics provided by Healthsync have been invaluable in optimizing our clinic's operations and improving patient satisfaction.",
+            quote: "The analytics provided by Healthsync have been invaluable in optimizing our clinic&apos;s operations and improving patient satisfaction.",
         },
         {
             name: "Dr. Sarah Patel",

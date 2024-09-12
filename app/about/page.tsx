@@ -146,10 +146,10 @@ export default function AboutUs() {
                             Join Our Journey
                         </h2>
                         <p className="mb-4">
-                            We're always open to collaborating with like-minded
-                            individuals who are passionate about improving
-                            healthcare through technology. Feel free to reach
-                            out if you are interested in partnering or
+                            We&apos;re always open to collaborating with
+                            like-minded individuals who are passionate about
+                            improving healthcare through technology. Feel free
+                            to reach out if you are interested in partnering or
                             contributing to HealthSync's mission.
                         </p>
                         <div className="flex justify-center">

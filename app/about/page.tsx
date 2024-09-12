@@ -31,7 +31,7 @@ const TeamMember = ({
 export default function AboutUs() {
     const teamMember = {
         name: "Talha Ali", // Add your name here
-        role: "Founder &amp; Lead Developer",
+        role: "Founder & Lead Developer",
         image: "/mypic.jpg", // Replace with your actual image path
     };
 

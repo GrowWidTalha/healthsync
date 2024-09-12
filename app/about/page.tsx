@@ -31,7 +31,7 @@ const TeamMember = ({
 export default function AboutUs() {
     const teamMember = {
         name: "Talha Ali", // Add your name here
-        role: "Founder & Lead Developer",
+        role: "Founder &amp; Lead Developer",
         image: "/mypic.jpg", // Replace with your actual image path
     };
 
@@ -150,7 +150,7 @@ export default function AboutUs() {
                             like-minded individuals who are passionate about
                             improving healthcare through technology. Feel free
                             to reach out if you are interested in partnering or
-                            contributing to HealthSync's mission.
+                            contributing to HealthSync&apos;s mission.
                         </p>
                         <div className="flex justify-center">
                             <Button

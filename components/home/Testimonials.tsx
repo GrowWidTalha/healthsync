@@ -1,8 +1,8 @@
-import { motion } from "framer-motion";
+import { AnimationControls, motion } from "framer-motion";
 import { TestimonialCard } from "../ui/TestimonialCard";
 
 interface TestimonialsSectionProps {
-    controls: any;
+    controls: AnimationControls;
 }
 
 export function TestimonialsSection({ controls }: TestimonialsSectionProps) {

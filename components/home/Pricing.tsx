@@ -1,8 +1,8 @@
-import { motion } from "framer-motion";
+import { AnimationControls, motion } from "framer-motion";
 import { PricingCard } from "../ui/PricingCard";
 
 interface PricingSectionProps {
-    controls: any;
+    controls: AnimationControls;
 }
 
 export function PricingSection({ controls }: PricingSectionProps) {

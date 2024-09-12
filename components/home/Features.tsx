@@ -1,4 +1,4 @@
-import { motion } from "framer-motion";
+import { motion, AnimationControls } from "framer-motion";
 import { FeatureCard } from "../ui/FeatureCard";
 import {
     CheckCircle,
@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 
 interface FeaturesSectionProps {
-    controls: any;
+    controls: AnimationControls;
 }
 
 export function FeaturesSection({ controls }: FeaturesSectionProps) {
@@ -35,7 +35,7 @@ export function FeaturesSection({ controls }: FeaturesSectionProps) {
         },
         {
             icon: Lock,
-            title: "Secure & Compliant",
+            title: "Secure &amp; Compliant",
             description:
                 "Robust user authentication and data management to ensure privacy and security.",
         },

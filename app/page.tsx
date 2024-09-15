@@ -8,6 +8,7 @@ import { TestimonialsSection } from "@/components/home/Testimonials";
 import { PricingSection } from "@/components/home/Pricing";
 import CTA from "@/components/home/CTA";
 import Link from "next/link";
+import IntroVideo from "@/components/home/IntroVideo";
 
 export default function LandingPage() {
     const controls = useAnimation();
@@ -80,7 +81,7 @@ export default function LandingPage() {
                         </motion.div>
                     </div>
                 </section>
-
+                <IntroVideo />
                 <FeaturesSection controls={controls} />
                 <TestimonialsSection controls={controls} />
                 <PricingSection controls={controls} />
